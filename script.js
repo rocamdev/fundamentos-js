@@ -14,3 +14,10 @@ var sobrenome = "Campos",
   cidade = "Curitiba";
 
 console.log(sobrenome, cidade);
+
+// Declaração posterior de variáveis
+
+console.log(comida);
+comida = "pizza";
+var comida;
+console.log(comida);
