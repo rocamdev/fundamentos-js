@@ -21,3 +21,8 @@ console.log(comida);
 comida = "pizza";
 var comida;
 console.log(comida);
+
+//MUDAR VALOR ATRIBUÍDO A UMA VARIÁVEL
+
+comida = "frango";
+console.log(comida);
