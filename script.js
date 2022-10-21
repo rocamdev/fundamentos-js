@@ -9,3 +9,8 @@ var totalComprado = 5;
 var totalPreco = totalComprado * preco;
 
 console.log(totalPreco);
+
+var sobrenome = "Campos",
+  cidade = "Curitiba";
+
+console.log(sobrenome, cidade);
