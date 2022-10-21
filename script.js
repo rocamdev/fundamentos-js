@@ -26,3 +26,19 @@ console.log(comida);
 
 comida = "frango";
 console.log(comida);
+
+//EXERCÍCIO TESTE
+
+//Declarar uma variável com seu nome (já realizado linha 1 )
+
+//Declarar uma variável com sua idade (já realizado linha 2 )
+
+// //Declarar uma variável com sua comida favorita e não atribuir valor
+var comidaFavorita;
+
+//atribuir valor a sua comida favorita
+comidaFavorita = "churrasco";
+//declarar 5 variáveis diferentes
+var trabalho, hobby, estadoCivil, rg, cpf;
+//mostrar tudo na tela
+console.log(nome, idade, comidaFavorita, trabalho, hobby, estadoCivil, rg, cpf);
