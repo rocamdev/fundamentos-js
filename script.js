@@ -1,1 +1,2 @@
-console.log("oi");
+var nome = "Rodolfo";
+var idade = "27";
