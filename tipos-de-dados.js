@@ -22,3 +22,10 @@ var mes = 8;
 
 console.log(ano + mes);
 console.log(typeof (ano + mes));
+
+//uso das aspas
+var melhor = "teste";
+var frase1 = "Esse é o 'melhor' jogo";
+console.log(frase1);
+var frase1 = 'Esse é o "melhor" jogo';
+console.log(frase1);
