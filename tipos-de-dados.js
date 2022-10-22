@@ -1,3 +1,5 @@
 //descobrindo tipo de variável
 var nome = "Rodolfo";
-console.log(typeof nome);
+var idade = 27;
+var time = null;
+console.log(typeof time);
