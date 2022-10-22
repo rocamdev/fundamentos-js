@@ -10,3 +10,7 @@ var sobrenome = "Campos";
 var nomeCompleto = nome + sobrenome;
 
 console.log(nomeCompleto);
+
+var gols = 1000;
+var frase = "Halland fez " + gols + " " + "gols";
+console.log(frase);
