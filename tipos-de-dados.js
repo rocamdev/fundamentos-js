@@ -34,3 +34,26 @@ console.log(frase1);
 // var frase2 = "Romário fez " + gols + " gols";
 var frase2 = `Romário fez ${gols * 2} gols`;
 console.log(frase2);
+
+//EXERCÍCIO
+
+//Declare uma variável contendo uma string
+var cor = "azul";
+
+//Declare uma variável contendo um número dentro de uma string
+var numerostring = "1";
+//Declare uma variável com sua idade
+var idade2 = 27;
+
+//Declare duas variáveis, uma com seu nome
+var nome2 = "Rodolfo";
+
+//E outra com seu sobrenome e some as mesmas
+var sobrenome2 = "Campos";
+var nomecompleto2 = nome2 + " " + sobrenome;
+
+//Coloque a seguinte frase em uma variável: It's time
+var frase3 = "It's time";
+
+//Verifique o tipo de variável que contém seu nome
+console.log(typeof nomecompleto2);
