@@ -29,3 +29,8 @@ var frase1 = "Esse é o 'melhor' jogo";
 console.log(frase1);
 var frase1 = 'Esse é o "melhor" jogo';
 console.log(frase1);
+
+//template string
+// var frase2 = "Romário fez " + gols + " gols";
+var frase2 = `Romário fez ${gols * 2} gols`;
+console.log(frase2);
