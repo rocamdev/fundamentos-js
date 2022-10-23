@@ -13,3 +13,8 @@ console.log("100" + 50);
 console.log("100" - 50);
 console.log("100" * "50");
 console.log("comprei 100" / 50);
+
+console.log(20 + 5 * 2);
+console.log((20 + 5) * 2);
+console.log((20 / 5) * 2);
+console.log(10 + 10 * 2 + 20 / 2);
