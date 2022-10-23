@@ -26,5 +26,19 @@ console.log(incremento++);
 console.log(incremento);
 console.log(++incremento);
 
-const naoincrementa = 5;
-console.log(++naoincrementa);
+// const naoincrementa = 5;
+// console.log(++naoincrementa);
+
+//Unários com strings
+
+var frase = "Isso não é número";
+console.log(+frase);
+console.log(-frase);
+
+var idade = "27";
+console.log(+idade);
+console.log(-idade);
+console.log(+idade + 5);
+
+// var possuiFaculdade = true;
+// console.log(+possuiFaculdade);
