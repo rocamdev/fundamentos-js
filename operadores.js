@@ -40,5 +40,6 @@ console.log(+idade);
 console.log(-idade);
 console.log(+idade + 5);
 
-// var possuiFaculdade = true;
-// console.log(+possuiFaculdade);
+//Unários com Booleano
+var possuiFaculdade = true;
+console.log(+possuiFaculdade);
