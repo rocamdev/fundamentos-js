@@ -14,7 +14,14 @@ console.log("100" - 50);
 console.log("100" * "50");
 console.log("comprei 100" / 50);
 
+//Ordem das operações matemáticas
 console.log(20 + 5 * 2);
 console.log((20 + 5) * 2);
 console.log((20 / 5) * 2);
 console.log(10 + 10 * 2 + 20 / 2);
+
+//Operadores Aritméticos Unários
+var incremento = 5;
+console.log(incremento++);
+console.log(incremento);
+console.log(++incremento);
