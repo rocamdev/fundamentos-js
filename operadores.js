@@ -25,3 +25,6 @@ var incremento = 5;
 console.log(incremento++);
 console.log(incremento);
 console.log(++incremento);
+
+const naoincrementa = 5;
+console.log(++naoincrementa);
