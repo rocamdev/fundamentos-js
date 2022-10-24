@@ -3,7 +3,7 @@ function areaQadrado(lado) {
 }
 console.log(areaQadrado(4));
 
-// FUNCAO COR FAVORITA
+// FUNCAO COM STRINGS
 function corFavorita(cor) {
   if (cor == "azul") {
     return "eu gosto do ceu";
@@ -13,3 +13,8 @@ function corFavorita(cor) {
     return "não gosta de ceu nem de mato";
   }
 }
+
+//FUNÇÕES COMO ARGUMENTOS
+addEventListener("click", function () {
+  console.log("Clicou");
+});
