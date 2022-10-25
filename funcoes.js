@@ -18,3 +18,10 @@ function corFavorita(cor) {
 addEventListener("click", function () {
   console.log("Clicou");
 });
+
+// VALORES RETORNADOS
+function imc(peso, altura) {
+  const imc = peso / altura ** 2;
+  console.log(imc);
+}
+console.log(imc(73, 1.76));
