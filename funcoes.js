@@ -41,3 +41,9 @@ function terceiraIdade(idade) {
 
 console.log(terceiraIdade(61));
 console.log(terceiraIdade("oi"));
+
+function faltaVisitar(paisesVisitados) {
+  var totalPaises = 193;
+  return `Falta visitar ${totalPaises - paisesVisitados} países`;
+}
+console.log(faltaVisitar(18));
