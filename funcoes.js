@@ -78,6 +78,9 @@ function epar(numero) {
 }
 
 //Crie uma função que retorne o tipo  de dado presente nela
+function tipoDeDado(dado) {
+  return typeof dado;
+}
 
 //addEventListener é uma função dativa do JavaScript
 //O primeiro parâmetro é o evento que ocorre e o segundo o callback
