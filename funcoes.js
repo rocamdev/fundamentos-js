@@ -69,6 +69,13 @@ function nomeCompleto(nome, sobrenome) {
 }
 
 //Crie uma função que verifique se um numero é par
+function epar(numero) {
+  if (numero % 2 == 0) {
+    return "É par!";
+  } else {
+    return "É Impar";
+  }
+}
 
 //Crie uma função que retorne o tipo  de dado presente nela
 
