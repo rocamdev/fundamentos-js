@@ -86,10 +86,10 @@ function tipoDeDado(dado) {
 //O primeiro parâmetro é o evento que ocorre e o segundo o callback
 //utilize essa função para mostrar no console seu nome completo quando o eventro scroll ocorrer
 
-addEventListener("scroll", function () {
+addEventListener("click", function () {
   console.log("Seu nome é Rodolfo Campos");
 });
 
-addEventListener("scroll", function () {
-  console.log("Rodolfo Campos");
-});
+// addEventListener("scroll", function () {
+//   console.log("Rodolfo Campos");
+// });
