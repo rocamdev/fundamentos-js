@@ -89,7 +89,3 @@ function tipoDeDado(dado) {
 addEventListener("click", function () {
   console.log("Seu nome é Rodolfo Campos");
 });
-
-// addEventListener("scroll", function () {
-//   console.log("Rodolfo Campos");
-// });
