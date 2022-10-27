@@ -59,9 +59,9 @@ function verdade(info) {
 }
 
 //Crie uma função matemática que retorne o perimetro de um quadrado
-// function perimetro(lado) {
-//   return lado * 4;
-// }
+function perimetro(lado) {
+  return lado * 4;
+}
 
 //Crie uma funcao que retorno seu nome completo
 
