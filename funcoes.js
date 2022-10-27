@@ -47,3 +47,28 @@ function faltaVisitar(paisesVisitados) {
   return `Falta visitar ${totalPaises - paisesVisitados} países`;
 }
 console.log(faltaVisitar(18));
+
+//EXERCICIOS
+//Crie uma função para verificar se um valor é true
+function verdade(info) {
+  if (info == true) {
+    return "é True!";
+  } else {
+    return "Não é True";
+  }
+}
+
+//Crie uma função matemática que retorne o perimetro de um quadrado
+// function perimetro(lado) {
+//   return lado * 4;
+// }
+
+//Crie uma funcao que retorno seu nome completo
+
+//Crie uma função que verifique se um numero é par
+
+//Crie uma função que retorne o tipo  de dado presente nela
+
+//addEventListener é uma função dativa do JavaScript
+//O primeiro parâmetro é o evento que ocorre e o segundo o callback
+//utilize essa função para mostrar no console seu nome completo quando o eventro scroll ocorrer
