@@ -63,7 +63,10 @@ function perimetro(lado) {
   return lado * 4;
 }
 
-//Crie uma funcao que retorno seu nome completo
+//Crie uma funcao que retornE seu nome completo
+function nomeCompleto(nome, sobrenome) {
+  return "Seu nome é " + nome + " " + sobrenome;
+}
 
 //Crie uma função que verifique se um numero é par
 
