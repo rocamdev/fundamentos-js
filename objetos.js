@@ -26,3 +26,12 @@ console.log(nome.length);
 console.log(nome.charAt(1));
 console.log(nome.replace("fo", "pho"));
 console.log(nome);
+
+//PreviaElementos do DOM
+
+var btn = document.querySelector(".btn");
+btn.classList.add("azul");
+console.log(btn.innerText);
+btn.addEventListener("click", function () {
+  console.log("Clicou");
+});
