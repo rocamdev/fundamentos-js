@@ -19,3 +19,10 @@ var quadrado = {
     return this.lados * lado;
   },
 };
+
+//mais propriedades de objetos
+nome = "Rodolfo";
+console.log(nome.length);
+console.log(nome.charAt(1));
+console.log(nome.replace("fo", "pho"));
+console.log(nome);
