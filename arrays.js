@@ -8,3 +8,8 @@ videoGames.push("Nintendo"); //Add um item à ultima posição
 for (var numero = 0; numero < 10; numero++) {
   console.log(`Array n ${numero}`);
 }
+var i = 0;
+while (i < 10) {
+  console.log(i);
+  i++;
+}
