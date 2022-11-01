@@ -18,3 +18,9 @@ function listGames() {
     console.log(videoGames[j]);
   }
 }
+
+// Usando o ForEach
+var frutas = ["banana", "maçã", "pera", "morango"];
+frutas.forEach(function (item) {
+  console.log(item);
+});
