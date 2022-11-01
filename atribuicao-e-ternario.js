@@ -15,8 +15,8 @@ scroll += 500;
 
 //atribua true para a variavel darCredito, caso o cliente possua carro e casa. E false caso o contrário.
 
-var possuiCarro = true;
+var possuiCarro = false;
 var possuiCasa = true;
 var darCredito;
 
-darCredito = possuiCarro == true && possuiCasa == true;
+darCredito = possuiCarro && possuiCasa;
