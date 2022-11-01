@@ -13,3 +13,8 @@ while (i < 10) {
   console.log(i);
   i++;
 }
+function listGames() {
+  for (var j = 0; j < videoGames.length; j++) {
+    console.log(videoGames[j]);
+  }
+}
