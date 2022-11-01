@@ -4,4 +4,6 @@ numero += 10;
 numero /= 10;
 numero %= 10;
 
-//operador ternario
+//operador ternário
+idade = 19;
+var podeBeber = idade >= 18 ? "Pode beber." : "Não pode beber.";
