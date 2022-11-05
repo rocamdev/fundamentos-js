@@ -8,4 +8,3 @@ if (true) {
   let mes = "Dezembro";
   console.log(mes);
 }
-// console.log(mes);
