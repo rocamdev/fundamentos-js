@@ -5,7 +5,7 @@ function mostrarCarro() {
 
 //VARIÁVEL VAZANDO DO ESCOPO
 if (true) {
-  var mes = "Dezembro";
+  let mes = "Dezembro";
   console.log(mes);
 }
 console.log(mes);
