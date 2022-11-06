@@ -20,3 +20,4 @@ var possuiCasa = true;
 var darCredito;
 
 darCredito = possuiCarro && possuiCasa;
+console.log(darCredito);
