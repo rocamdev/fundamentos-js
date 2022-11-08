@@ -13,7 +13,7 @@ var podeBeber = idade >= 18 ? "Pode beber." : "Não pode beber.";
 var scroll = 1000;
 scroll += 500;
 
-//atribua true para a variavel darCredito, caso o cliente possua carro e casa. E false caso o contrário
+//atribua true para a variavel darCredito, caso o cliente possua carro e casa. E false caso o contrário.
 
 var possuiCarro = false;
 var possuiCasa = true;
