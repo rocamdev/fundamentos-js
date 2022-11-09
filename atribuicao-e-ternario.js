@@ -21,3 +21,5 @@ var darCredito;
 
 darCredito = possuiCarro && possuiCasa;
 console.log(darCredito);
+
+//Continuação dos estudos em breve.
