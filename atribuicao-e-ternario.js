@@ -6,7 +6,7 @@ numero %= 10;
 
 //operador ternário.
 idade = 19;
-var podeBeber = idade >= 18 ? "Pode beber." : "Não pode beber.";
+var podeBeber = idade >= 18 ? "já Pode beber." : "Não pode beber.";
 
 //Exercícios
 //some 500 ao valor de scroll abaixo, atribuindo o novo valor ao scroll
