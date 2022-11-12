@@ -6,6 +6,7 @@ numero %= 10;
 
 //operador ternário.
 idade = 19;
+idade = idade + 10;
 var podeBeber = idade >= 18 ? "já Pode beber." : "Não pode beber.";
 
 //Exercícios
