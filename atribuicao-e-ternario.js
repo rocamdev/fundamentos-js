@@ -1,6 +1,7 @@
 //operadores de atribuição
 var numero = 20;
 numero += 10;
+numero -= 5;
 numero /= 10;
 numero %= 10;
 
