@@ -3,7 +3,7 @@ var numero = 20;
 numero += 10;
 numero -= 5;
 numero /= 10;
-numero %= 10;
+// numero %= 10;
 
 //operador ternário.
 idade = 19;
